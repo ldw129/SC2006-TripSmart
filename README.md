@@ -1,8 +1,17 @@
 # TripSmart
+
+## About
+<div align="Justify">
+  
+This is a Group Project for the course **SC2006 (Software Engineering)**. 
+<p></p>
+
 ![alt text](./tripsmart.gif)   
 Introducing TripSmart, a trip aggregator platform that facilitates a cost-effective and efficient mode of transportation selection based on individual commuting preferences. 
 
 Our platform consolidates estimated travel time and fare data from multiple transportation sources to enable informed decisions for time and money savings. We aim to support Singapore's smart nation vision by optimizing the transportation industry and encouraging smart mobility, empowering regular commuters with the ability to compare available options.
+
+</div>
 
 ## Getting Started
 
