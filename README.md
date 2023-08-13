@@ -1,4 +1,4 @@
-# TripSmart
+# SC2006 TripSmart
 
 ## About
 <div align="Justify">
