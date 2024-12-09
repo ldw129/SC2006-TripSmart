@@ -3,7 +3,7 @@
 ## About
 <div align="Justify">
   
-This is a Group Project for the course **SC2006 (Software Engineering)**. 
+This is a Group Project for the course **SC2006 Software Engineering** conducted by Nanyang Technological University's College of Computing and Data Science. 
 <p></p>
 
 ![alt text](./tripsmart.gif)   
